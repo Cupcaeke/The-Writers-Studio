@@ -12,6 +12,11 @@ Welcome to the Writer's Studio Obsidian Vault. Here, you can track and plan all 
  	- Build your own magic system.
  	- Plan and worldbuild regions and locations.
  	- Anything else you decide to add!
+## Installation
+ - Head to the "Releases" page and download the latest .zip file.
+ - Extract to an empty folder of your choice. Note the path of this folder. **Make sure there are no other files in this folder aside from the ones in the .zip.
+ - Open obsidian. Create New Vault from Existing Folder. Navigate to the path of the extracted files (The folder with the `.obsidian` folder in it). Select this folder and create vault.
+ - Happy writing!
  ## What about drafting?
  - That one is on you! As so many people have such different drafting processes (or may not wish to write prose at all), this vault functions independent from drafting, yet still tracks all relevant information. **Cupcaeke** personally uses [Freewrite](https://getfreewrite.com) for her own distraction-free drafting. If Freewrite seems interesting, try out their word processor, [Sprinter/Postbox](https://getfreewrite.com/pages/sprinter).
  ## How do I use this vault?
